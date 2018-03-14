@@ -1,0 +1,7 @@
+nombre = asd
+cedula = assd
+direccion = asd
+correo electronicoasd
+procedencia = asd
+numero de horas que se va a quedar = 4
+cobrar 10000
